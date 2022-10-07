@@ -1,0 +1,12 @@
+---
+:id: 69721708
+:submitters:
+- :name: Richard Marquez Cortes
+  :email: rmarqu20@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-13 05:21:54.829818000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-03-12 21:21:54.829818000 Z
+:status: processed
+:score: 94.4286
